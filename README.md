@@ -8,4 +8,4 @@ Extracted deep features summaried in [DeepFeaturesAndTFRecords/GBM_kaggle_deep_f
 
 You can use script [codes/tfmaker](https://github.com/FORRESTHUACHEN/mpMRI_for_MGMT_Prediction-/blob/main/codes/tfmaker%20-%20v3.py) to create tfrecords for model training and validation and example tfrecord are shown as [DeepFeaturesAndTFRecords/Traintransdetalrunning1_0.tfrecords and DeepFeaturesAndTFRecords/Testtransdetalrunning1_0.tfrecords](https://github.com/FORRESTHUACHEN/mpMRI_for_MGMT_Prediction-/tree/main/DeepFeaturesAndTFRecords).
 
-You can use script here to validate our method.
+You can use script [codes/LSTM_Classifier_v3.py](https://github.com/FORRESTHUACHEN/mpMRI_for_MGMT_Prediction-/blob/main/codes/LSTM_Classifier_v3.py) to validate our method.
