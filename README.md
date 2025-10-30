@@ -5,3 +5,5 @@ Pipeline of study is shown as follow:
 ![Pipeline of study](https://github.com/FORRESTHUACHEN/mpMRI_for_MGMT_Prediction-/blob/main/Figure1.png)
 
 Extracted deep features summaried in [DeepFeaturesAndTFRecords/GBM_kaggle_deep_feature_transfor_detal_summary.xlsx](https://github.com/FORRESTHUACHEN/mpMRI_for_MGMT_Prediction-/blob/main/DeepFeaturesAndTFRecords/GBM_kaggle_deep_feature_transfor_detal_summary.xlsx)
+
+You can use script  to create tfrecords for model training and validation.
