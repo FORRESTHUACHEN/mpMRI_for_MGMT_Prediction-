@@ -4,4 +4,4 @@ Here is the repository of 'mpMRI-based MGMT Methylation Status Prediction for Gl
 Pipeline of study is shown as follow:
 ![Pipeline of study](https://github.com/FORRESTHUACHEN/mpMRI_for_MGMT_Prediction-/blob/main/Figure1.png)
 
-Left resource will be uploaded in following days.
+Extracted deep features summaried in 
