@@ -4,4 +4,4 @@ Here is the repository of 'mpMRI-based MGMT Methylation Status Prediction for Gl
 Pipeline of study is shown as follow:
 ![Pipeline of study](https://github.com/FORRESTHUACHEN/mpMRI_for_MGMT_Prediction-/blob/main/Figure1.png)
 
-Extracted deep features summaried in [Here](https://github.com/FORRESTHUACHEN/mpMRI_for_MGMT_Prediction-/blob/main/DeepFeaturesAndTFRecords/GBM_kaggle_deep_feature_transfor_detal_summary.xlsx)
+Extracted deep features summaried in [DeepFeaturesAndTFRecords/GBM_kaggle_deep_feature_transfor_detal_summary.xlsx](https://github.com/FORRESTHUACHEN/mpMRI_for_MGMT_Prediction-/blob/main/DeepFeaturesAndTFRecords/GBM_kaggle_deep_feature_transfor_detal_summary.xlsx)
